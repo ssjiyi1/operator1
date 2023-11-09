@@ -1,0 +1,7 @@
+apiVersion: zouxapp.github.com/v1
+kind: PodCount
+metadata:
+  name: podcount-sample
+spec:
+  # Add fields here
+  foo: bar

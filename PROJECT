@@ -1,0 +1,7 @@
+domain: github.com
+repo: github.com/zoux86/operator-example
+resources:
+- group: zouxapp
+  kind: PodCount
+  version: v1
+version: "2"
